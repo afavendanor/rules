@@ -1,4 +1,4 @@
-package accion
+package rules
  
 import co.com.ceiba.model.Product
 
