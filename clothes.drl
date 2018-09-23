@@ -1,6 +1,6 @@
 package rules
  
-import co.com.suramericana.model.Product
+import co.com.ceiba.model.Product
 
 rule "Offer for Shirt"
 	when 
